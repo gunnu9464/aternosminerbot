@@ -2,9 +2,9 @@
   "name": "minecraft-afk-bot",
   "version": "1.0.0",
   "description": "AFK Minecraft bot with web status for UptimeRobot",
-  "main": "index.js",         ← this line tells Node to run `index.js`
+  "main": "index.js",         
   "scripts": {
-    "start": "node index.js" ← this is what Render and Replit use to start
+    "start": "node index.js" 
   },
   "engines": {
     "node": ">=14.0.0"
