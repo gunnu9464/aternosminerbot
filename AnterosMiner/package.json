@@ -1,16 +1,16 @@
 {
-  "name": "minecraft-afk-bot",
+  "name": "workspace",
   "version": "1.0.0",
-  "description": "AFK Minecraft bot with web status for UptimeRobot",
-  "main": "index.js",         
+  "description": "A Node.js bot that automatically walks and jumps in Minecraft to prevent AFK timeouts on servers, specifically designed for Aternos servers.",
+  "main": "index.js",
   "scripts": {
-    "start": "node index.js" 
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "engines": {
-    "node": ">=14.0.0"
-  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "mineflayer": "4.1.0",
-    "express": "4.16.4"
+    "express": "^5.1.0",
+    "mineflayer": "^4.25.0"
   }
 }
