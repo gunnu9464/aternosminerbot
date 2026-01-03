@@ -15,7 +15,7 @@ function createBot() {
     bot = mineflayer.createBot({
       host: 'XDserverOP.aternos.me',
       port: 48903,
-      username: 'billi_mausi',
+      username: 'billi_mausi2',
       auth: 'offline'
     });
 
